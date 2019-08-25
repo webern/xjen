@@ -7,7 +7,7 @@ namespace xjen
     class Hello {
         public:
            Hello();
-        private:
+           int getFive() const;
     };
 }
 

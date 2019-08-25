@@ -1,10 +1,8 @@
 // xjen by (c) Matthew James Briggs
-#include "hello.h"
+
+#include "xjen/Hello.h"
 
 namespace xjen
 {
-   Hello::Hello()
-   {
-   
-   }
+
 }
