@@ -1,5 +1,5 @@
 // xjen by (c) Matthew James Briggs
-#include "../include/xgen/Hello.h"
+#include "xjen/Hello.h"
 
 namespace xjen
 {
